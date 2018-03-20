@@ -2,7 +2,7 @@
   "name": "ethereumjs-wallet",
   "version": "0.6.0",
   "description": "Utilities for handling Ethereum keys",
-  "main": "dist/index.js",
+  "main": "index.js",
   "files": [
     "dist"
   ],
